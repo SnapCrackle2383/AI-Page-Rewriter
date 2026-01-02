@@ -1,8 +1,11 @@
 # AI Page Rewriter
 
 A Chrome extension that rewrites webpage copy using Claude AI. Turns vague, institutional marketing-speak into clear, conversion-focused text.
-After
-<img width="1856" height="1057" alt="Screenshot 2026-01-02 at 14 05 03" src="https://github.com/user-attachments/assets/f6530fd6-2f3a-4927-bee3-7384f5f926c5" />
+Before:
+<img width="1589" height="995" alt="Screenshot 2026-01-02 at 14 29 40" src="https://github.com/user-attachments/assets/149b2cb6-5b29-4178-829f-ba9e95ad8edb" />
+
+After:
+<img width="1504" height="1058" alt="Screenshot 2026-01-02 at 14 29 30" src="https://github.com/user-attachments/assets/4c884254-b3ed-46d7-8c31-7abb23d33832" />
 
 
 ## What it does
